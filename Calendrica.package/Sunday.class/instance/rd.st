@@ -1,0 +1,4 @@
+accessing
+rd
+
+	^ 0

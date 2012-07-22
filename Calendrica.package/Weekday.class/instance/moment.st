@@ -1,0 +1,4 @@
+accessing
+moment
+
+	^ self rd

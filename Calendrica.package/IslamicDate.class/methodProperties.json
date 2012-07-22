@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"epoch" : "espin 3/17/2011 14:53",
+		"isLeapYear:" : "espin 5/22/2011 15:51",
+		"mawlidAnNabiInGregorianYear:" : "espin 3/17/2011 15:47",
+		"month:day:inGregorianYear:" : "espin 3/17/2011 15:46",
+		"monthNames" : "espin 3/6/2011 15:35:09.166",
+		"numberOfDaysInPreviousYearsForYear:" : "espin 3/6/2011 16:15:05.528" },
+	"instance" : {
+		"ashura" : "espin 3/17/2011 15:19",
+		"idAlAdha" : "espin 3/17/2011 15:26",
+		"idAlFitr" : "espin 3/17/2011 15:25",
+		"lailatAlBaraa" : "espin 3/17/2011 15:23",
+		"lailatAlKadr" : "espin 3/17/2011 15:25",
+		"lailatAlMiraj" : "espin 3/17/2011 15:22",
+		"mawlidAnNabi" : "espin 3/17/2011 15:21",
+		"month" : "espin 3/6/2011 16:42:59.345",
+		"ramadan" : "espin 3/17/2011 15:24",
+		"rataDieFromYear:month:day:" : "espin 3/17/2011 14:55",
+		"year" : "espin 3/6/2011 16:43:20.236" } }

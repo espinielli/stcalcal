@@ -1,0 +1,20 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 1/8/2011 14:46:00.681",
+	"instvars" : [
+		"year",
+		"month",
+		"event",
+		"count",
+		"leap" ],
+	"name" : "RomanDate",
+	"pools" : [
+		 ],
+	"super" : "JulianDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

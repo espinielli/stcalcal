@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"calendarName" : "espin 4/18/2011 16:50",
+		"readFrom:" : "espin 4/18/2011 17:53",
+		"readRataDieFrom:" : "espin 4/30/2011 15:10",
+		"summerForGregorianYear:" : "espin 4/18/2011 15:41",
+		"winterForGregorianYear:" : "espin 4/18/2011 15:44",
+		"year:season:week:weekday:" : "espin 4/18/2011 16:07",
+		"year:season:week:weekday:hour:minute:second:" : "espin 4/18/2011 16:34" },
+	"instance" : {
+		"printRataDieOn:" : "espin 4/18/2011 16:46",
+		"rataDieFromYear:season:week:weekday:" : "espin 4/30/2011 15:15",
+		"season" : "espin 4/18/2011 16:23",
+		"week" : "espin 4/18/2011 16:27",
+		"weekday" : "espin 4/18/2011 16:29",
+		"year" : "espin 4/18/2011 16:21",
+		"year:season:week:weekday:hour:minute:second:" : "espin 4/18/2011 16:09" } }

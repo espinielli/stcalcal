@@ -1,0 +1,4 @@
+constants
+calendarName
+
+	^ 'Rata Die'

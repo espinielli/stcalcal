@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Elul",
+	"pools" : [
+		 ],
+	"super" : "HebrewMonth",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

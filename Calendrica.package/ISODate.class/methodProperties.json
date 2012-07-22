@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"readRataDieFrom:" : "espin 3/6/2011 14:24:52.362",
+		"year:week:day:" : "espin 3/5/2011 12:04:24.29",
+		"year:week:day:hour:minute:second:" : "espin 3/5/2011 12:05:45.482" },
+	"instance" : {
+		"day" : "espin 3/6/2011 14:10:36.085",
+		"isLongYear" : "espin 3/11/2011 16:31",
+		"printRataDieOn:" : "espin 3/6/2011 14:08:01.127",
+		"rataDieFromYear:week:day:" : "espin 3/6/2011 14:07:16.537",
+		"week" : "espin 3/6/2011 15:04:07.065",
+		"year" : "espin 3/6/2011 14:45:05.737",
+		"year:week:day:hour:minute:second:" : "espin 3/6/2011 13:20:33.786" } }

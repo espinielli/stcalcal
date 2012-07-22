@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 12/26/2010 15:47:26.755",
+	"instvars" : [
+		 ],
+	"name" : "GregorianDate",
+	"pools" : [
+		 ],
+	"super" : "AbstractYearMonthDayDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "CalendricaTests-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IcelandicDateTest",
+	"pools" : [
+		 ],
+	"super" : "CalendricaTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

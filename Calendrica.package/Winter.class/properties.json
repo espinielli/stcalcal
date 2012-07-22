@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Winter",
+	"pools" : [
+		 ],
+	"super" : "Season",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

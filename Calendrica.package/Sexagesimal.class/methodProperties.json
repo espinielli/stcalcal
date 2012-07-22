@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"decimal:" : "espin 12/26/2010 15:49:28.163",
+		"fromString:" : "espin 12/26/2010 15:49:28.165",
+		"readFrom:" : "espin 12/26/2010 15:49:28.169",
+		"readSymbolOrSpace:fromStream:" : "espin 12/26/2010 15:49:28.175",
+		"sixtyTwo:sixtyOne:sixtyZero:" : "espin 12/26/2010 15:49:28.173",
+		"symbolForSixtyOne" : "espin 12/26/2010 15:49:28.179",
+		"symbolForSixtyTwo" : "espin 12/26/2010 15:49:28.181",
+		"symbolForSixtyZero" : "espin 12/26/2010 15:49:28.183" },
+	"instance" : {
+		"*" : "espin 12/26/2010 15:49:28.118",
+		"+" : "espin 12/26/2010 15:49:28.124",
+		"-" : "espin 12/26/2010 15:49:28.128",
+		"decimal" : "espin 12/26/2010 15:49:28.097",
+		"decimal:" : "espin 12/26/2010 15:49:28.14",
+		"negated" : "espin 12/26/2010 15:49:28.132",
+		"postfixPrintOn:" : "espin 12/26/2010 15:49:28.144",
+		"prefixPrintOn:" : "espin 12/26/2010 15:49:28.146",
+		"printOn:" : "espin 12/26/2010 15:49:28.136",
+		"sign" : "espin 12/26/2010 15:49:28.103",
+		"sixtyOne" : "espin 12/26/2010 15:49:28.107",
+		"sixtyOnePrintOn:" : "espin 12/26/2010 15:49:28.15",
+		"sixtyTwo" : "espin 12/26/2010 15:49:28.111",
+		"sixtyTwo:sixtyOne:sixtyZero:" : "espin 12/26/2010 15:49:28.152",
+		"sixtyTwoPrintOn:" : "espin 12/26/2010 15:49:28.157",
+		"sixtyZero" : "espin 12/26/2010 15:49:28.116",
+		"sixtyZeroPrintOn:" : "espin 12/26/2010 15:49:28.159" } }

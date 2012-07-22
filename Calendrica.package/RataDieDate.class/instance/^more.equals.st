@@ -1,0 +1,4 @@
+comparing
+>= aDate
+
+	^ aDate <= self

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"aryaJovianPeriod" : "espin 4/16/2011 15:09",
+		"aryaSolarMonth" : "espin 4/16/2011 15:17",
+		"aryaSolarYear" : "espin 4/16/2011 15:08",
+		"calendarName" : "espin 4/18/2011 16:51",
+		"epoch" : "espin 4/16/2011 15:02" },
+	"instance" : {
+		"day" : "espin 4/16/2011 15:46",
+		"dayCount" : "espin 4/16/2011 15:05",
+		"jovianYear" : "espin 4/16/2011 15:15",
+		"month" : "espin 4/16/2011 15:45",
+		"rataDieFromYear:month:day:" : "espin 4/16/2011 15:33",
+		"year" : "espin 4/16/2011 15:45" } }

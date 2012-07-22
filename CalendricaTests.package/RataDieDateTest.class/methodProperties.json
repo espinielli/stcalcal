@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDayOfWeek" : "espin 2/26/2011 18:11:46.131",
+		"testNthOccurrenceOfWeekday" : "espin 2/26/2011 18:11:46.129",
+		"testOnOrAfterWeekday" : "espin 2/26/2011 18:11:46.133",
+		"testOnOrBeforeWeekday" : "espin 2/26/2011 18:11:46.125",
+		"testPreviousWeekday" : "espin 2/26/2011 18:11:46.117" } }

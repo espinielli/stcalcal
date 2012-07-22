@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Ides",
+	"pools" : [
+		 ],
+	"super" : "RomanMonthEvent",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

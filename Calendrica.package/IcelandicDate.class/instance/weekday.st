@@ -1,0 +1,4 @@
+accessing
+weekday
+
+	^ self dayOfWeek

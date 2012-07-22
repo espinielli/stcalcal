@@ -1,0 +1,3 @@
+accessing
+rd
+	^ 6

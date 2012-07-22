@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"decimalHours:" : "espin 12/26/2010 15:50:11.024",
+		"hours:minutes:seconds:" : "espin 12/26/2010 15:50:11.029",
+		"readFrom:" : "espin 2/26/2011 18:08:42.767",
+		"symbolForDays" : "espin 12/26/2010 15:50:11.035",
+		"symbolForSixtyOne" : "espin 12/26/2010 15:50:11.039",
+		"symbolForSixtyTwo" : "espin 12/26/2010 15:50:11.041",
+		"symbolForSixtyZero" : "espin 12/26/2010 15:50:11.043" },
+	"instance" : {
+		"days" : "espin 12/26/2010 15:50:10.988",
+		"daysPrintOn:" : "espin 12/26/2010 15:50:11.016",
+		"decimalDays" : "espin 12/26/2010 15:50:10.992",
+		"decimalHours" : "espin 12/26/2010 15:50:10.996",
+		"hours" : "espin 12/26/2010 15:50:11.001",
+		"minutes" : "espin 12/26/2010 15:50:11.006",
+		"seconds" : "espin 12/26/2010 15:50:11.01",
+		"sixtyTwoPrintOn:" : "espin 12/26/2010 15:50:11.02",
+		"time" : "espin 12/26/2010 15:50:11.012" } }

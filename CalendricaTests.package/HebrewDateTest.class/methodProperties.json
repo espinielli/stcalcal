@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccessing" : "espin 4/30/2011 15:36",
+		"testDaysInPriorMonths" : "espin 4/15/2011 17:39",
+		"testDaysInYear" : "espin 4/13/2011 12:23",
+		"testElapsedDays" : "espin 3/17/2011 17:41",
+		"testElapsedDaysForYear" : "espin 4/13/2011 12:32",
+		"testEpoch" : "espin 3/29/2011 15:53",
+		"testEpochMolad" : "espin 3/29/2011 15:50",
+		"testExtraRd" : "espin 4/30/2011 15:26",
+		"testIsLeapYear" : "espin 5/22/2011 15:56",
+		"testLastDayOfMonth" : "espin 4/15/2011 16:24",
+		"testLastMonthOfYear" : "espin 4/15/2011 17:30",
+		"testLongMarheshav" : "espin 4/13/2011 12:19",
+		"testNewYearDay" : "espin 7/18/2011 23:29",
+		"testShortKislev" : "espin 4/13/2011 12:25",
+		"testYearLengthCorrection" : "espin 4/13/2011 12:29" } }

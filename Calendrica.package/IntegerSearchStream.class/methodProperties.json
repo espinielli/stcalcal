@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"from:withCondition:" : "espin 4/12/2011 15:39",
+		"maxStartingFrom:withCondition:" : "espin 7/16/2011 07:34",
+		"minStartingFrom:withCondition:" : "espin 7/16/2011 07:34" },
+	"instance" : {
+		"condition" : "espin 4/12/2011 15:41",
+		"condition:" : "espin 4/12/2011 15:41",
+		"max" : "espin 7/16/2011 07:35",
+		"max:" : "espin 4/12/2011 15:48",
+		"min" : "espin 7/16/2011 07:34",
+		"min:" : "espin 4/12/2011 15:52",
+		"start" : "espin 4/12/2011 15:41",
+		"start:" : "espin 4/12/2011 15:40" } }

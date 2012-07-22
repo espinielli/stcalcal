@@ -1,0 +1,19 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 12/26/2010 15:51:29.461",
+	"instvars" : [
+		"sixtyZero",
+		"sixtyOne",
+		"sixtyTwo",
+		"sign" ],
+	"name" : "Sexagesimal",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"MonthTable" ],
+	"commentStamp" : "espin 5/23/2011 08:48",
+	"instvars" : [
+		 ],
+	"name" : "HebrewMonth",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"calendarName" : "espin 3/6/2011 15:24:23.219",
+		"endOfYearDayForYear:" : "espin 3/6/2011 14:43:29.544",
+		"newYearDayForYear:" : "espin 7/16/2011 10:42",
+		"numberOfDaysInPreviousYearsForYear:withLeapYearCycleLenght:ofWhichLeap:yearZeroPosition:ordinaryYearLength:averageLenghtOfYear:timeOfDayYearZeroStarts:" : "espin 3/6/2011 16:07:23.861",
+		"readRataDieFrom:" : "espin 3/5/2011 14:32:54.091",
+		"year:month:day:" : "espin 3/5/2011 14:30:37.408",
+		"year:month:day:hour:minute:second:" : "espin 4/10/2011 14:54" },
+	"instance" : {
+		"beginningOfMonth" : "espin 3/5/2011 14:17:20.474",
+		"day" : "espin 3/6/2011 15:00:13.615",
+		"dayNumber" : "espin 3/5/2011 14:20:24.408",
+		"endOfYearDay" : "espin 3/6/2011 14:43:29.554",
+		"newYearDay" : "espin 3/6/2011 14:43:06.888",
+		"printRataDieOn:" : "espin 3/5/2011 14:23:29.834",
+		"remainingDaysInYear" : "espin 4/17/2011 15:58",
+		"year:month:day:hour:minute:second:" : "espin 3/5/2011 14:21:40.428" } }
