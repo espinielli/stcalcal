@@ -1,7 +1,7 @@
 In non prioritized order:
 [ ] ? Rename IntegerSearchStream
 [ ] ? Model Gregorian/Coptic/... months with proper classes like HebrewMonth ???
-[ ] Document the meaning of Nones/Kalens/...
+[X] Document the meaning of Nones/Kalens/...
 [ ] Finish Gregorian holidays, i.e. easter + tests.
 [ ] Complete HebrewDate holidays with tests
 [ ] add Unicode names for months/days/holidays and relevant pretty print

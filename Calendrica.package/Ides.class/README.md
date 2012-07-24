@@ -1,0 +1,2 @@
+I represent the day of the full moon, in the Roman calendar the 13th day of most months, but the 15th day of March, May, July, and October.
+For more info see http://en.wikipedia.org/wiki/Nones_(calendar)#Months
