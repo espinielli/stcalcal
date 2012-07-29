@@ -1,0 +1,1 @@
+I model the start of season 'Summer' as astronomical event where the Sun's longitude is 90 degrees.

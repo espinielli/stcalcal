@@ -1,6 +1,6 @@
 instance creation
-from: aRataDie withCondition: aBlock
+from: aNumber withCondition: aBlock
 
 	^ (self new)
-		start: aRataDie;
+		start: aNumber;
 		condition: aBlock.

@@ -1,0 +1,1 @@
+I represent the seventh month of the Hebrew calendar.

@@ -1,0 +1,1 @@
+My subclasses represent the days of the week.

@@ -1,2 +1,1 @@
-RomanDate represents Julian dates according to Roman nomenclature, i.e. referring
-to specil events of the month (Kalends, nones, ides).
+I represent Julian dates according to Roman nomenclature, i.e. referring to special events of the month (Kalends, Nones, Ides).

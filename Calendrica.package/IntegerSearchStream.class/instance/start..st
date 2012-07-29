@@ -1,4 +1,4 @@
 setters and getters
-start: aRataDie
+start: aNumber
 
-	start := aRataDie 
+	start := aNumber 

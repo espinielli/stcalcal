@@ -1,0 +1,1 @@
+I model the start of season 'Spring' as astronomical event where the Sun's longitude is 0 degrees.

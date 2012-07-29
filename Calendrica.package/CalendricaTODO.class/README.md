@@ -8,3 +8,6 @@ In non prioritized order:
 [x] Avoid to make EthiopicDate a subclass of CopticDate, i.e. avoid inheriting holidays...same for other calendars?
     Subclassing could stay for RomanDate and ISODate which are just different representations of the same calendar.
 [x] Test leap dates in Gregorian, Roman, Islamic, ...
+
+[] PersianDate: as other astronomical calendars needs the astronomical algorithms...
+[] Fill correct dates for Orthodox Easter in GregorianDateTest>>testHolidays

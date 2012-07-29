@@ -1,0 +1,1 @@
+I model the start of season 'Autumn' as astronomical event where the Sun's longitude is 180 degrees.

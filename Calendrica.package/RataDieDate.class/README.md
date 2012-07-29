@@ -1,6 +1,5 @@
 A RataDie represents a point in time from Epoch.
-Compared with Rata Die in Calendrical Calculations, I included a non
-null time component, i.e. I made an object out of Moment (Moment = Rata Die + Clock time).
+Compared with Rata Die in Calendrical Calculations, I include a non null time component, i.e. I am what there is called a Moment (Rata Die + Clock time).
 
 The algorithms are from
 	Nachum Dershowitz, Edward M. Reingold "Calendrical Calculations"

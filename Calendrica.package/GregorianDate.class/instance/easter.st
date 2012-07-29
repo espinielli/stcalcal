@@ -1,4 +1,4 @@
-special days
+holidays
 easter
 
 	^ self class easterForYear: self year

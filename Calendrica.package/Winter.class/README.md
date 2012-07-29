@@ -1,0 +1,1 @@
+I model the start of season 'Winter' as astronomical event where the Sun's longitude is 270 degrees.

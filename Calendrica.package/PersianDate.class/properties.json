@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 7/28/2012 23:18",
+	"instvars" : [
+		 ],
+	"name" : "PersianDate",
+	"pools" : [
+		 ],
+	"super" : "AbstractYearMonthDayDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

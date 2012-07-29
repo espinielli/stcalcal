@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "{}",
 	"classvars" : [
 		"RataDieEpoch" ],
-	"commentStamp" : "espin 7/16/2011 08:21",
+	"commentStamp" : "espin 7/28/2012 23:22",
 	"instvars" : [
 		"rd",
 		"time" ],
