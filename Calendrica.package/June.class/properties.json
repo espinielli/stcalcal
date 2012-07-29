@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Gregorian",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "June",
+	"pools" : [
+		 ],
+	"super" : "GregorianMonth",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

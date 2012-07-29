@@ -11,3 +11,4 @@ In non prioritized order:
 
 [] PersianDate: as other astronomical calendars needs the astronomical algorithms...
 [] Fill correct dates for Orthodox Easter in GregorianDateTest>>testHolidays
+[] read CSV files for test data and make use of them in tests.

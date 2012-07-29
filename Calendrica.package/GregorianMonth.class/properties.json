@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Hebrew",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"MonthTable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GregorianMonth",
+	"pools" : [
+		 ],
+	"super" : "AbstractMonth",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
