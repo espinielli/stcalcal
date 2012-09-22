@@ -1,4 +1,4 @@
-*calendrica-core
+*calendrica-julian
 asRomanMonthEvent
 
 	^ RomanMonthEvent fromString: self

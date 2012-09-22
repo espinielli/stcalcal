@@ -1,7 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "espin 5/18/2011 16:23",
-		"testAccessing" : "espin 5/18/2011 16:26",
-		"testReadFromBisextile" : "espin 5/18/2011 16:25" } }

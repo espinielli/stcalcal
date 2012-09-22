@@ -9,4 +9,4 @@ month
 					ifFalse: [(self isLeapYear)
 						ifTrue:[1]
 						ifFalse:[2]].
-	^ ((12 * (priorDays + correction)) + 373) // 367
+	^ GregorianMonth month: ((12 * (priorDays + correction)) + 373) // 367

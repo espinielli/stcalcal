@@ -4,6 +4,6 @@ printRataDieOn: aStream
 
 	self year printOn: aStream.
 	aStream nextPut: $/.
-	self month printOn: aStream.
+	self month rd printOn: aStream.
 	aStream nextPut: $/.
 	self day printOn: aStream.

@@ -3,7 +3,10 @@
 		"month:" : "espin 7/29/2012 15:06" },
 	"instance" : {
 		"<" : "espin 7/29/2012 14:58",
-		"=" : "espin 7/29/2012 14:58",
+		"=" : "espin 7/30/2012 15:26",
+		"adaptToNumber:andSend:" : "espin 7/30/2012 15:04",
+		"hash" : "espin 7/30/2012 15:25",
 		"nextForYear:" : "espin 7/29/2012 14:58",
 		"previousForYear:" : "espin 7/29/2012 14:58",
+		"printOn:" : "espin 7/30/2012 15:12",
 		"rd" : "espin 7/29/2012 14:58" } }

@@ -9,4 +9,4 @@ month
 	month := (IntegerSearchStream from: start rd withCondition: [:m | | date |
 		date:= HebrewDate year: self year month: m day: (self class lastDayOfMonth: m forYear: self year).
 		self rd <= date rd]) min.
-	^ month
+	^ HebrewMonth month: month

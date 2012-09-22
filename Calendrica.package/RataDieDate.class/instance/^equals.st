@@ -2,5 +2,5 @@ comparing
 = aDate
 
 	self == aDate ifTrue: [^ true].
-	(aDate isKindOf: self class) ifFalse: [ ^ false].
+	(aDate isKindOf: self class orOf: RataDieDate) ifFalse: [ ^ false].
 	^ self moment = aDate moment

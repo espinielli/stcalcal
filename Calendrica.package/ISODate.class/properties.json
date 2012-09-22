@@ -1,5 +1,5 @@
 {
-	"category" : "Calendrica-Core",
+	"category" : "Calendrica-Gregorian",
 	"classinstvars" : [
 		 ],
 	"classtraitcomposition" : "{}",

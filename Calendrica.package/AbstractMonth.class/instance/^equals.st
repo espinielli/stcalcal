@@ -1,4 +1,4 @@
 comparing
 = aMonth
 
-	^ self name = aMonth name
+	^ (self rd = aMonth rd) and: (self name = aMonth name)
