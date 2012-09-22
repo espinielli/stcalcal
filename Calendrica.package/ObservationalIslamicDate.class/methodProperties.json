@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "espin 8/3/2012 14:30",
+		"location" : "espin 8/3/2012 14:23",
+		"location:" : "espin 8/3/2012 14:29",
+		"year:month:day:" : "espin 8/3/2012 15:21",
+		"year:month:day:hour:minute:second:location:" : "espin 8/3/2012 15:22" },
+	"instance" : {
+		"location" : "espin 8/4/2012 15:04",
+		"rataDieFromYear:month:day:" : "espin 8/27/2012 15:15",
+		"year:month:day:hour:minute:second:location:" : "espin 8/4/2012 15:03" } }

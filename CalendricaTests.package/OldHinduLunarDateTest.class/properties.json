@@ -1,0 +1,16 @@
+{
+	"category" : "CalendricaTests-OldHindu",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OldHinduLunarDateTest",
+	"pools" : [
+		 ],
+	"super" : "CalendricaTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

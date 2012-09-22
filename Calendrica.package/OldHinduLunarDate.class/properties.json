@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-OldHindu",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 8/1/2012 14:43",
+	"instvars" : [
+		 ],
+	"name" : "OldHinduLunarDate",
+	"pools" : [
+		 ],
+	"super" : "RataDieDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

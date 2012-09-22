@@ -1,0 +1,16 @@
+{
+	"category" : "CalendricaTests-Gregorian",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GregorianDateTest",
+	"pools" : [
+		 ],
+	"super" : "CalendricaTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

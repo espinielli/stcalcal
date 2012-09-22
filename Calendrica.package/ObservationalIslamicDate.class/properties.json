@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Islamic",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"IslamicLocation" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"location" ],
+	"name" : "ObservationalIslamicDate",
+	"pools" : [
+		 ],
+	"super" : "AbstractYearMonthDayDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

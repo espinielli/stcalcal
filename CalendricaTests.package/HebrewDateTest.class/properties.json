@@ -1,0 +1,16 @@
+{
+	"category" : "CalendricaTests-Hebrew",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HebrewDateTest",
+	"pools" : [
+		 ],
+	"super" : "CalendricaTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

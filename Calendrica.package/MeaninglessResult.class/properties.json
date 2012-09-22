@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 8/5/2012 14:41",
+	"instvars" : [
+		 ],
+	"name" : "MeaninglessResult",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

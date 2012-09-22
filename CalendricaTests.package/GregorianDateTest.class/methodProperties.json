@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccessing" : "espin 7/30/2012 14:38",
+		"testDayNumber" : "espin 4/17/2011 16:08",
+		"testEndOfYearDay" : "espin 7/29/2012 23:01",
+		"testHolidays" : "espin 7/28/2012 15:06",
+		"testIsLeapYear" : "espin 5/22/2011 15:56",
+		"testRemainingDaysInYear" : "espin 4/17/2011 16:03" } }

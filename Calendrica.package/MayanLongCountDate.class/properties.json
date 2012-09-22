@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Mayan",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "espin 8/2/2012 00:10",
+	"instvars" : [
+		 ],
+	"name" : "MayanLongCountDate",
+	"pools" : [
+		 ],
+	"super" : "RataDieDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

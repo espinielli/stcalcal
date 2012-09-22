@@ -1,0 +1,16 @@
+{
+	"category" : "Calendrica-Mayan",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MayanHaabDate",
+	"pools" : [
+		 ],
+	"super" : "RataDieDate",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

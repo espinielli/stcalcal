@@ -1,0 +1,16 @@
+{
+	"category" : "CalendricaTests-Julian",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JulianDateTest",
+	"pools" : [
+		 ],
+	"super" : "CalendricaTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
